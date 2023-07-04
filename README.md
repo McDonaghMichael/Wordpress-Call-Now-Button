@@ -36,7 +36,7 @@ The "Call now" button will now be displayed at the bottom of phone screens on yo
 
 ## Support or Contact
 
-If you have any questions, suggestions, or need assistance, please feel free to [contact the author](mailto:youremail@example.com).
+If you have any questions, suggestions, or need assistance, please feel free to open a github issue.
 
 ## License
 
