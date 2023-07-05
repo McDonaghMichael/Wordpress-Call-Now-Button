@@ -5,7 +5,7 @@ The Call Button plugin adds a "Call now" button to the bottom of phone screens o
 ## Features
 
 - Adds a "Call now" button to the bottom of phone screens.
-- Customizable button text, phone number, colors, width, height, padding, and margin.
+- Customizable button text, phone number, colors, width, height, padding, margin, font size, and z-index.
 - Simple and easy-to-use settings page to configure the button appearance.
 - Enqueues the necessary JavaScript and CSS files for the button.
 - Fully responsive design for mobile devices.
@@ -25,18 +25,21 @@ Once the plugin is activated, the "Call Button" submenu will be available under 
    - **Button Text:** The text to be displayed on the button (default: "Call now").
    - **Phone Number:** The phone number to call when the button is clicked.
    - **Text Color:** The color of the button text (default: #ffffff).
+   - **Font Size:** The font size of the button text (default: 16px).
    - **Background Color:** The background color of the button (default: #000000).
+   - **Z-index:** The z-index of the button (default: 0).
    - **Width:** The width of the button as a percentage (default: 100).
    - **Height:** The height of the button in pixels (default: 50).
    - **Padding:** The padding around the button content in pixels (default: 10).
    - **Margin:** The margin around the button in pixels (default: 10).
+   - **Custom CSS:** Custom CSS code to style the button (optional).
 3. Click the 'Save Changes' button to save the settings.
 
 The "Call now" button will now be displayed at the bottom of phone screens on your website.
 
 ## Support or Contact
 
-If you have any questions, suggestions, or need assistance, please feel free to open a github issue.
+If you have any questions, suggestions, or need assistance, please feel free to open a GitHub issue.
 
 ## License
 
